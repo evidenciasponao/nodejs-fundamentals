@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2"
+  },
+  "name": "nodejs-fundamentals",
+  "version": "1.0.0",
+  "description": "nodejs fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index8.js",
+    "dev": "node index7.js"
+  },
+  "keywords": [
+    "nodejs",
+    "fundamentals"
+  ],
+  "author": "anderson",
+  "license": "ISC"
+}
