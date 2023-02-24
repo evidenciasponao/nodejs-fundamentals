@@ -32,6 +32,12 @@ npm install
 el cual instalara todas las dependencias de las cuales mi aplicacion
 hace uso*/
 
+/* tambien podemos usar el comando
+npm init -y
+el cual crea el archivo package.json automaticamente
+para nuestro proyecto*/
+
+
 /* uso de .gitignore
 para ignorar esta carpeta crearemos un archivo .gitignore
 y ponemos node_modules para no subirla en nuestra aplicacion*/
